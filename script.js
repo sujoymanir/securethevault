@@ -10,9 +10,22 @@
 const num1= 5+1+2+1+1;
 const num2= 10 *4;
 const num3= 70-31;
+const str9= "You have received this message because you have been chosen to open an important vault. Here is the secret combination"
 
-const newString3= `The Secret Combination is ${num1},${num2},${num3}`
+/* 
+I created three distinct variables for each secret code digit
+Each variable  has a different operator
+
+*/
+
+const newString3= `${str9} ${num1},${num2},${num3}`
+
+/* 
+Create a
+*/
+
 
 console.log(newString3);
 
-alert(newString3)
+alert(newString3);
+
