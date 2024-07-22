@@ -21,11 +21,20 @@ Each variable  has a different operator
 const newString3= `${str9} ${num1},${num2},${num3}`
 
 /* 
-Create a
+Created a new a string with the string message and numbers concatanated.
 */
 
 
 console.log(newString3);
 
+/* 
+I checked  my terminal to  see if the new string came out accurately
+*/
+
+
 alert(newString3);
 
+/* 
+
+Added the alert
+*/
